@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Pavithra 👋
 
-<!--
-**pavithra-analytics/pavithra-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Intelligence Analyst @ Amazon | Data & Product Analytics
 
-Here are some ideas to get you started:
+## About Me
+- 10+ years in Data Analytics & Business Intelligence
+- Strong in SQL, Product Analytics, Experimentation & Business Insights
+- Passionate about turning data into business impact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- SQL (Advanced)
+- Python (Pandas, Data Analysis)
+- A/B Testing & Experimentation
+- Product & Funnel Analytics
+- Data Visualization
+
+## What I'm Building
+- SQL Analytics Projects
+- Product & Business Case Studies
+- Data Analysis Portfolio
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/pavithraramesh12/
+- Email: rrbpavithra@gmail.com
